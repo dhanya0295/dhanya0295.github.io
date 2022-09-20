@@ -1,22 +1,28 @@
 {
-	"movies": [
+	"courses": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Course ID": "INFO 202",
+			"Name": "Information Org and Retrieval",
+			"Units": "3",
+			"Professor": "David Bamman"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Course ID": "INFO 271B",
+			"Name": "Quantitive Research and Analysis",
+			"Units": "3",
+			"Professor": "Andrew Reddie"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Course ID": "INFO 290",
+			"Name": "Product Design Studio",
+			"Units": "3",
+			"Professor": "Jamie Raffel"
+		},
+		{
+			"Course ID": "INFO 258",
+			"Name": "Data Engineering",
+			"Units": "4",
+			"Professor": "Lakshya Jain"
 		}
 	]
 }
